@@ -1,0 +1,69 @@
+
+ Frau Kollegin Zeulner, herzlichen Dank.
+ Mit Ihren Worten schließen wir die Aussprache.
+Interfraktionell wird Überweisung der Vorlagen auf den Drucksachen 19/7480 und 19/7691 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen.
+ Sind Sie damit einverstanden? — Ich sehe, das ist der Fall.
+ Dann sind die Überweisungen so beschlossen.
+Ich rufe die Tagesordnungspunkte 20 a und 20 b sowie Zusatzpunkt 10 auf:
+20.
+ a) Beratung des Antrags der Abgeordneten Manuel Höferlin, Jimmy Schulz, Stephan Thomae, weiterer Abgeordneter und der Fraktion der FDPDigitalisierung ernst nehmen - IT-Sicherheit stärkenDrucksache 19/7698Überweisungsvorschlag:
+Ausschuss für Inneres und HeimatAusschuss Digitale AgendaAusschuss für Recht und Verbraucherschutz Federführung strittigb) Beratung des Antrags der Abgeordneten Anke Domscheit-Berg, Dr.
+ Petra Sitte, Doris Achelwilm, weiterer Abgeordneter und der Fraktion DIE LINKEUmsetzung effektiver Maßnahmen für digitale Sicherheit statt Backdoors Drucksache 19/7705Überweisungsvorschlag:
+Ausschuss für Inneres und HeimatAusschuss Digitale AgendaAusschuss für Recht und Verbraucherschutz Federführung strittigZP 10 Beratung des Antrags der Abgeordneten Uwe Schulz, Joana Cotar, Dr.
+ Michael Espendiller, weiterer Abgeordneter und der Fraktion der AfDSchutz der Kritischen 5G-Infrastruktur vor staatsnahen NetzwerkausrüsternDrucksache 19/7723ÜberweisungsvorschlagAusschuss für Inneres Ei Heimat Ausschuss Digitale Agenda Federführung strittigNach einer interfraktionellen Vereinbarung sind für die Aussprache 38 Minuten vorgesehen.
+ - Ich höre hierzu keinen Widerspruch.
+ Dann ist das so beschlossen.
+Ich bitte alle Beteiligten, zügig den Wechsel vorzunehmen, damit wir mit der Aussprache beginnen können.
+Ich eröffne die Aussprache und erteile als erstem Redner das Wort dem Kollegen Manuel Höferlin, FDP-Fraktion.
+ Manuel Höferlin:
+Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Nur 37 Prozent der Bevölkerung trauen der Bundesregierung zu, dass sie fähig ist, die Digitalisierung voranzutreiben; das sagt eine Studie des Vodafone-Instituts.
+ — Gratulation, ich hätte nicht so viel erwartet.
+ Eine andere Studie aus dem Jahr 2017 sagt voraus,Manuel Höferlindass bereits im kommenden Jahr mehr als 20 Milliarden Geräte im Internet der Dinge miteinander verbunden sein werden.
+ 20 Milliarden Geräte, das ist dreimal so viel, wie wir Menschen auf der Welt haben.
+ Ich weiß nicht, wie es Ihnen geht und was das bei Ihnen auslöst — mich macht diese Zahl sehr nervös; denn die Bundesregierung hängt bei der IT-Kompetenz streckenweise immer noch in der Vorschule fest.
+ Dafür gibt es zahlreiche Beispiele.
+Fragen Sie doch mal die Bürger, wer eigentlich hier für die IT-Sicherheit zuständig ist.
+ Da kommt dann wahrscheinlich die Antwort:
+ Irgendeiner der fünfzehn oder sechzehn Digitalminister wird es wohl sein.
+ — Das ist desaströs; denn die IT-Sicherheit ist die Achillesferse des Informationszeitalters.
+ Die Bundesregierung vernachlässigt die IT-Sicherheit, aber nicht nur.
+ Sie handelt auch teilweise unkoordiniert, in der Sache sogar schädlich.
+ Die Bürger sind verunsichert.
+ Die Bundesregierung setzt dem Ganzen die Krone auf, weil immer wieder die gleichen Reflexe ziehen, immer wieder das Gleiche wiederholt wird.
+ Ich kann es nicht oft genug sagen:
+ Der Versuch, das Internet vollumfänglich zu kontrollieren, wird scheitern.
+ Der Staat muss sich auf die Kernaufgaben konzentrieren, nämlich auf den Schutz der Bürgerinnen und Bürger und auf den Schutz der wichtigen Infrastruktur.
+ Was brauchen wir dafür? In unserem Antrag haben wir das Wichtigste zusammengefasst.
+ Liebe Bundesregierung, Sie können sich gerne bedienen - im Namen der Sicherheit ist Ihnen ja auch sonst jedes Mittel recht.
+ Worum geht es im Kern? Erstens.
+ Wir sind überzeugt davon, dass Sie Sicherheitslücken schließen müssen, anstatt sie für eigene Zwecke offen zu halten, beispielsweise für den Staatstrojaner.
+Zweitens.
+ Hören Sie endlich auf, Bürgerinnen und Bürger an vielen Stellen zu überwachen, beispielsweise im Rahmen der Vorratsdatenspeicherung oder mit den Staatstrojaner.
+ Fangen Sie an, die IT-Sicherheit zu stärken!Kommen wir zu den Sicherheitslücken.
+ Die Sicherheitslücke selbst ist ein Sicherheitsrisiko; der Name sagt es ja schon.
+ Die erste und letzte Linie der Verteidigung ist das Bundesamt für Sicherheit in der Informationstechnik, BSI.
+ Das BSI ist dem Innenministerium nachgeordnet.
+ Unser Heimatminister ist heute wieder nicht da; der geschätzte Kollege Krings nimmt die Position ein.
+ Sie merken selber:
+ Es gibt da einen gewissen Interessenkonflikt; denn beim Innenministerium sind auch das Bundeskriminalamt und das Bundesamt für Verfassungsschutz angesiedelt.
+ Es geht darum, Sicherheitslücken zu schließen.
+ Andere wollen sie offen halten und für eigene Zwecke nutzen — das kann nur schiefgehen.
+ Deshalb wollen wir Freie Demokraten, dass das BSI aus der Zuständigkeit des Innenministeriums herausgelöst wird.
+ Zusätzlich muss das BSI eine zentrale Meldestelle werden — überhaupt eine zentrale Stelle — für die IT-Sicherheit in Deutschland.
+Mein Kollege Benjamin Strasser hat in der letzten Woche einen hervorragenden Vorschlag dazu gemacht:
+ Lassen Sie uns doch bitte die Sicherheit — auch die IT-Sicherheit; die gehört dahin — im Rahmen einer Féderalismuskommission III intensiv besprechen; das würde die IT-Sicherheit deutlich starken.
+ Nun noch ein Wort zur digitalen Selbstverteidigung.
+ Stellen Sie sich vor, Sie werden gehackt und Sie können trotzdem ruhig schlafen, Sie können ganz in Ruhe Ihre Serie auf Netflix oder wo auch immer zu Ende schauen; denn Sie wissen:
+ Es wird nichts Schlimmes passieren.
+ Viele von Ihnen/uns haben zwischen den Jahren/Anfang Januar eine solche Situation erlebt.
+ Was ich beschrieben habe, wäre aber möglich, wenn es ein wirksames Recht auf Verschlüsselung gäbe, wenn die Daten und die E-Mails, die abgeflossen sind, eben verschlüsselt wären.
+ Das Bundesverfassungsgericht hat vor über zehn Jahren das IT-Grundrecht entwickelt.
+ Ich fordere die Bundesregierung auf, endlich nachzusteuern und dort auch wirklich Sicherheit für die Bürgerinnen und Bürger zu gewährleisten.
+ Sie finden in unserem Antrag noch viele weitere Ideen.
+ Acht Seiten lassen sich etwas schwierig in vier Minuten quetschen.
+ Der Präsident fängt auch schon an zu blinken — zumindest hier vorne -; deswegen komme ich auch zum Ende.
+ All diese Vorschläge müssen natürlich noch mit einem Satz enden:
+ Es wäre deutlich einfacher, Sie würden die IT-Kompetenz und -Steuerung in ein federführendes und zugleich koordinierendes Digitalministerium einbinden.
+ Dann wären wir einen Schritt weiter, das würde die IT-Sicherheit voranbringen.
+Herzlichen Dank.
+ Vizepräsident Wolfgang 

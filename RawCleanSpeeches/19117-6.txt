@@ -1,0 +1,31 @@
+
+ Vielen Dank.
+ — Auch Nachfrage und Antwort sollen jeweils 30 Sekunden möglichst nicht überschreiten.
+Die nächste Frage stellt der Kollege Gustav Herzog, SPD.
+Gustav Herzog:
+Herr Bundesminister, Sie haben über Digitalisierung gesprochen.
+ Einer der wichtigen Bereiche zur Digitalisierung, der vor uns liegt, ist der Verkehr.
+ Wir wollen, dass Fahrzeuge miteinander und auch mit der Infrastruktur kommunizieren.
+ Damit das keine Kakofonie auf europäischen Straßen gibt, hat die Kommission im Sommer dieses Jahres den Vorschlag von der Car-to-Car-Kommunikation gemacht — ein Standard, der bewährt ist, der auf WLAN aufbaut:
+ ITS-5G.
+.
+ Das „Handelsblatt“ berichtete am 2.
+ Juli unter der Überschrift „Kampf um die Daten im Auto“, dass es innerhalb der Bundesregierung unterschiedliche Auffas Gustav Herzogsungen gibt und die Bundesregierung dem Vorschlag der Kommission letztendlich nicht zugestimmt hat und wir dadurch erst mal keinen Standard haben.
+ Ich frage Sie:
+ Was ist die Begründung der Bundesregierung gewesen? Wenn Scheuer und Altmaier sich streiten, dann entscheidet das Kanzleramt.
+ Was hat Sie dazu bewogen, hier Nein zu sagen?Dr.
+ Helge Braun, Bundesminister für besondere Aufgaben:
+Also, den Vorgang haben Sie im Grunde richtig beschrieben.
+ Die Kommission hat gesagt:
+ Der WLAN-Standard ist heute fix und fertig ausgebaut, und er ist auch weitgehend standardisiert.
+ Deshalb hat sie vorgeschlagen, dass wir diesen als Grundlage für die Car-to-CarKommunikation nehmen.
+ Wir sehen, dass in großen Märkten wie in China das alles auf 5G-Technologie, also Mobilfunktechnologie, und nicht auf WLAN basiert.
+ Wir haben in allen unseren Vorhaben, Deutschland zum Leitmarkt für 5G zu machen, auch immer das Ziel verfolgt:
+ Autonomes Fahren wollen wir über 5G-Technologie realisieren.
+ Deshalb war die Frage, die wir zu beantworten hatten:
+ Stimmt es, dass, wenn wir uns auf WLAN im Sinne der Kommission festlegen, das in Zukunft problemlos in 5G überführt werden kann, oder führt es zu einer dauerhaften Doppelstruktur? Und bis die Einspruchsfrist der Kommission verstrichen war, konnte diese Frage nicht abschließend geklärt werden.
+ Es bestand die Gefahr, dass wir durch diese Entscheidung entweder langfristig auf 5G beim autonomen Fahren verzichten müssen oder langfristig eine Doppelstruktur aufbauen.
+ Das hielten wir für nicht verantwortbar.
+ Deshalb hat sich die Bundesregierung insgesamt entschieden, an diesem Punkt der Kommission nicht zu folgen.
+Präsident Dr.
+ Wolfgang 
